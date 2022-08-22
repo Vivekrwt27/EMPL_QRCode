@@ -1,0 +1,216 @@
+{
+  "id": "9a7a54a3-d4ef-4463-a46e-4bb7d4341006",
+  "name": "EMPL_QRCode",
+  "publisher": "TCPL",
+  "version": "1.0.0.5",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "01830f39-7f3f-4dd1-8049-aa1ece9d9a74",  
+      "publisher": "TCPL",
+      "name": "EMPL_BC_Extensions",
+      "version": "1.0.0.0"  
+    },
+    {
+      "id": "bcfad76a-d689-4461-b622-87a3e8497710",  
+      "publisher": "TCPL",
+      "name": "EMPL_ACKNo",
+      "version": "1.0.0.1"  
+    },
+    {
+      "id": "6992416f-3f39-4d3c-8242-3fff61350bea",  
+      "publisher": "Microsoft",
+      "name": "Business Central Cloud Migration - Previous Release",
+      "version": "20.1.39764.40432"  
+    },
+    {
+      "id": "57623bfa-0559-4bc2-ae1c-0979c29fc8d1",  
+      "publisher": "Microsoft",
+      "name": "Business Central Cloud Migration API",
+      "version": "20.1.39764.40432"  
+    },
+    {
+      "id": "334ef79e-547e-4631-8ba1-7a7f18e14de6",  
+      "publisher": "Microsoft",
+      "name": "Business Central Intelligent Cloud",
+      "version": "20.1.39764.40432"  
+    },
+    {
+      "id": "58623bfa-0559-4bc2-ae1c-0979c29fd9e0",  
+        "publisher": "Microsoft",
+        "name": "Intelligent Cloud Base",
+        "version": "20.1.39764.40432"  
+    },
+    {
+    "id": "c512d720-63b9-4b26-b062-a0c09b4ed322",  
+      "publisher": "Microsoft",
+      "name": "Company Hub",
+      "version": "20.1.39764.40432"  
+    },
+    {
+      "id": "7819d79d-feea-4f09-bbed-5bbaca4bf323",
+      "publisher": "Microsoft",
+      "name": "Data Archive",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "08d69832-9231-429e-be2c-8bab2c96905b",
+      "publisher": "Microsoft",
+      "name": "Email - Current User Connector",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "aceb66c8-472e-437c-81d3-27e6c07d0f14",
+      "publisher": "Microsoft",
+      "name": "Email - Microsoft 365 Connector",
+      "version": "20.1.39764.40432"
+    },
+    
+    {
+      "id": "68e13fa3-217a-4be0-9141-99e5bf0ca818",
+      "publisher": "Microsoft",
+      "name": "Email - SMTP Connector",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "2a89f298-7ffd-44a5-a7ce-e08dac98abce",
+      "publisher": "Microsoft",
+      "name": "Essential Business Headlines",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "1150dd8d-51da-485a-bd4a-1ee98d78c21a",
+      "publisher": "Microsoft",
+      "name": "Fixed Asset Depreciation for India",
+      "version": "20.1.39764.40432"
+    },    
+    {
+      "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+      "publisher": "Microsoft",
+      "name": "India Gate Entry",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "publisher": "Microsoft",
+      "name": "India GST",
+      "version": "20.1.39764.40947"
+    },
+    {
+      "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+      "publisher": "Microsoft",
+      "name": "India Reports",
+      "version": "20.1.39764.40947"
+    },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "publisher": "Microsoft",
+      "name": "India Tax Base",
+      "version": "20.1.39764.40687"
+    },
+    {
+      "id": "eddcf82e-482c-49d1-836b-ad0284f2c5b0",
+      "publisher": "Microsoft",
+      "name": "India TCS",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "eae5779e-7797-4c4c-977e-7516652b7a65",
+      "publisher": "Microsoft",
+      "name": "India TDS",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "publisher": "Microsoft",
+      "name": "India Voucher Interface",
+      "version": "20.1.39764.40725"
+    },
+    {
+      "id": "3d5b2137-efeb-4014-8489-41d37f8fd4c3",
+      "publisher": "Microsoft",
+      "name": "Late Payment Prediction",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "d09fa965-9a2a-424d-b704-69f3b54ed0ce",
+      "publisher": "Microsoft",
+      "name": "Payment Links to PayPal",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+      "publisher": "Microsoft",
+      "name": "QR Generator",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "a53a4bb0-aa53-8ff8-77d6-fe3388db0eb8",
+      "publisher": "Microsoft",
+      "name": "Recommended Apps",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "c526b3e9-b8ca-4683-81ba-fcd5f6b1472a",
+      "publisher": "Microsoft",
+      "name": "Sales and Inventory Forecast",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "8c972578-fe72-4aa5-ae51-cc5575fef2ea",
+      "publisher": "Microsoft",
+      "name": "Send To Email Printer",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "79b1a79a-2f66-4736-bc1b-8abb3537eb51",
+      "publisher": "Microsoft",
+      "name": "Simplified Bank Statement Import",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+      "publisher": "Microsoft",
+      "name": "Tax Engine",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "7961e9dc-a8e5-49b1-839b-3a78803a4cb8",
+      "publisher": "Microsoft",
+      "name": "Troubleshoot FA Ledger Entries",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "e6328152-bb29-4664-9dae-3bc7eaae1fd8",
+      "publisher": "Microsoft",
+      "name": "Email - Outlook REST API",
+      "version": "20.1.39764.40432"
+    },
+    {
+      "id": "2654d7e7-9afd-4947-9e02-6bb8f3e0cd04",
+      "publisher": "Microsoft",
+      "name": "Universal Print Integration",
+      "version": "20.1.39764.40432"
+    }],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.1.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50249
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}

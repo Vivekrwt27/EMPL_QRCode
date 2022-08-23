@@ -47,16 +47,17 @@ report 50100 "QR Code"
 
 
 
-
-        Clear(RecRef);
-        RecRef.Get(RecSalesInvoiceHeader.RecordId);
-        if QRGenerator.GenerateQRCodeImage(QRText, TempBlob) then begin
-            if TempBlob.HasValue() then begin
-                FldRef := RecRef.Field(RecSalesInvoiceHeader.FieldNo("QR-Code"));
-                TempBlob.ToRecordRef(RecRef, RecSalesInvoiceHeader.FieldNo("QR-Code"));
-                RecRef.Modify();
-                Message('Done');
-            end;
-        end;
+        /*
+                Clear(RecRef);
+                RecRef.Get(RecSalesInvoiceHeader.RecordId);
+                if QRGenerator.GenerateQRCodeImage(QRText, TempBlob) then begin
+                    if TempBlob.HasValue() then begin
+                        FldRef := RecRef.Field(RecSalesInvoiceHeader.FieldNo("QR-Code"));
+                        TempBlob.ToRecordRef(RecRef, RecSalesInvoiceHeader.FieldNo("QR-Code"));
+                        RecRef.Modify();
+                        Message('Done');
+                    end;
+                end;
+            */
     end;
 }
